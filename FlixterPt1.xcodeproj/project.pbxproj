@@ -13,6 +13,8 @@
 		CD47E77D2AAFC6040034E7EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD47E77B2AAFC6040034E7EE /* Main.storyboard */; };
 		CD47E77F2AAFC6080034E7EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD47E77E2AAFC6080034E7EE /* Assets.xcassets */; };
 		CD47E7822AAFC6080034E7EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD47E7802AAFC6080034E7EE /* LaunchScreen.storyboard */; };
+		CD47E78B2AAFC7CE0034E7EE /* Nuke in Frameworks */ = {isa = PBXBuildFile; productRef = CD47E78A2AAFC7CE0034E7EE /* Nuke */; };
+		CD47E7902AAFC9210034E7EE /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD47E78F2AAFC9210034E7EE /* Movie.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,7 @@
 		CD47E77E2AAFC6080034E7EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CD47E7812AAFC6080034E7EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CD47E7832AAFC6080034E7EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD47E78F2AAFC9210034E7EE /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +34,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD47E78B2AAFC7CE0034E7EE /* Nuke in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +44,7 @@
 		CD47E7692AAFC6040034E7EE = {
 			isa = PBXGroup;
 			children = (
+				CD47E78E2AAFC8D70034E7EE /* Models */,
 				CD47E7742AAFC6040034E7EE /* FlixterPt1 */,
 				CD47E7732AAFC6040034E7EE /* Products */,
 			);
@@ -67,6 +72,14 @@
 			path = FlixterPt1;
 			sourceTree = "<group>";
 		};
+		CD47E78E2AAFC8D70034E7EE /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				CD47E78F2AAFC9210034E7EE /* Movie.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -83,6 +96,9 @@
 			dependencies = (
 			);
 			name = FlixterPt1;
+			packageProductDependencies = (
+				CD47E78A2AAFC7CE0034E7EE /* Nuke */,
+			);
 			productName = FlixterPt1;
 			productReference = CD47E7722AAFC6040034E7EE /* FlixterPt1.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +127,9 @@
 				Base,
 			);
 			mainGroup = CD47E7692AAFC6040034E7EE;
+			packageReferences = (
+				CD47E7892AAFC7CE0034E7EE /* XCRemoteSwiftPackageReference "Nuke" */,
+			);
 			productRefGroup = CD47E7732AAFC6040034E7EE /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -140,6 +159,7 @@
 			files = (
 				CD47E77A2AAFC6040034E7EE /* ViewController.swift in Sources */,
 				CD47E7762AAFC6040034E7EE /* AppDelegate.swift in Sources */,
+				CD47E7902AAFC9210034E7EE /* Movie.swift in Sources */,
 				CD47E7782AAFC6040034E7EE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -358,6 +378,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		CD47E7892AAFC7CE0034E7EE /* XCRemoteSwiftPackageReference "Nuke" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/kean/Nuke.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		CD47E78A2AAFC7CE0034E7EE /* Nuke */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CD47E7892AAFC7CE0034E7EE /* XCRemoteSwiftPackageReference "Nuke" */;
+			productName = Nuke;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = CD47E76A2AAFC6040034E7EE /* Project object */;
 }
