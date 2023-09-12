@@ -1,31 +1,29 @@
 # cop4655-mobile-apps-unit2-miamarte18
 cop4655-mobile-apps-unit2-miamarte18 created by GitHub Classroom
 
-# Project 2 - *Name of App Here*
+# Project 2 - *Flixter pt 1 *
 
-Submitted by: **Your Name Here**
+Submitted by: **Mia Marte**
 
-**Name of your app** is a movie browsing app that... [TODO] 
+**Mia Marte ** is a movie browsing app similar to Flixter. Its purpose is to get familiar
+with APIS. 
 
-Time spent: **X** hours spent in total
+Time spent: **24** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are able to see a customized app icon and launch screen
-- [ ] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [ ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
-- [ ] Displays at least 5 different movies in a table view
-- [ ] Can tap into detail view of movie with a full description, backdrop image, and title
+- [X] Users are able to see a customized app icon and launch screen
+- [X] Your app should work for any screen size and orientation using AutoLayout constraints
+  - [X] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
+- [X] Displays at least 5 different movies in a table view
+- [X] Can tap into detail view of movie with a full description, backdrop image, and title
  
 The following **optional** features are implemented:
 
-- [ ] Unique UI changes, such as background, font/color changes, etc.
-- [ ] User implements a collection view
-- [ ] User implemenets tab bar controller with at least two screens
-
-The following **additional** features are implemented:
+- [X] Unique UI changes, such as background, font/color changes, etc.
+- [X] User implements a collection view
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
@@ -37,11 +35,13 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the challenges that I had was trying to work with constraints. 
+It was super hard for this assignment, to make sure my app was working
+in any other sign. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Mia Marte]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
