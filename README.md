@@ -29,9 +29,23 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+## Video with iPhoneSE 
+<div>
+    <a href="https://www.loom.com/share/ee4644cedcf24252bfeef41cf3ebbe32">
+    </a>
+    <a href="https://www.loom.com/share/ee4644cedcf24252bfeef41cf3ebbe32">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ee4644cedcf24252bfeef41cf3ebbe32-with-play.gif">
+    </a>
+  </div>
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+## Video with iPhone14 
+<div>
+    <a href="https://www.loom.com/share/0b92c1d26e644267a19d85650a81adf3">
+    </a>
+    <a href="https://www.loom.com/share/0b92c1d26e644267a19d85650a81adf3">
+      <img style="max-width:300px;" src="null">
+    </a>
+  </div>
 
 ## Notes
 
