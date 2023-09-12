@@ -43,7 +43,7 @@ The following **optional** features are implemented:
     <a href="https://www.loom.com/share/95076fdf79b74917a2308db6221a059f">
     </a>
     <a href="https://www.loom.com/share/95076fdf79b74917a2308db6221a059f">
-      <img style="max-width:300px;" src="null">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/95076fdf79b74917a2308db6221a059f-with-play.gif">
     </a>
   </div>
 
