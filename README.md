@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 - [X] Unique UI changes, such as background, font/color changes, etc.
 - [X] User implements a collection view
 
-- [ ] List anything else that you can get done to improve the app functionality!
+
 
 ## Video Walkthrough
 
