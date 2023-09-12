@@ -12,9 +12,12 @@ import UIKit
 class MovieCell : UITableViewCell{
     
     
+
+    
     @IBOutlet weak var moviePosterImage: UIImageView!
     
     @IBOutlet weak var movieNameLabel: UILabel!
+    
     
     @IBOutlet weak var DescriptionLabel: UILabel!
     
