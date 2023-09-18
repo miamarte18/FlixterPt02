@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  FlixterPt1
+//  FlixterPt2
 //
 //  Created by mia <3 on 9/11/23.
 //

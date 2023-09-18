@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7B7B27B9-8543-4C34-B5B7-96D624CF8B49"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D7BFDFB-0189-4226-93C5-64C5352517A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixterPt1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3D7BFDFB-0189-4226-93C5-64C5352517A7 - 43fbd84211e3219b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixterPt1.ViewController.tableView.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "FlixterPt1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miamarte/Desktop/MobileApps/FlixterPt1/FlixterPt1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "3D7BFDFB-0189-4226-93C5-64C5352517A7 - 674289118de45da7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixterPt1.ViewController.tableView.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "FlixterPt1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miamarte/Desktop/MobileApps/FlixterPt1/FlixterPt1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "3D7BFDFB-0189-4226-93C5-64C5352517A7 - 4624d43943788a98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixterPt1.ViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "FlixterPt1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miamarte/Desktop/MobileApps/FlixterPt1/FlixterPt1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "3D7BFDFB-0189-4226-93C5-64C5352517A7 - a7874825dece6084"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixterPt1.ViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "FlixterPt1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miamarte/Desktop/MobileApps/FlixterPt1/FlixterPt1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "3D7BFDFB-0189-4226-93C5-64C5352517A7 - 2ced1c44194ea08b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixterPt1.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FlixterPt1.ViewController"
+                  moduleName = "FlixterPt1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miamarte/Desktop/MobileApps/FlixterPt1/FlixterPt1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "127">
+               </Location>
+               <Location
+                  uuid = "3D7BFDFB-0189-4226-93C5-64C5352517A7 - a05b19114b825b1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixterPt1.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FlixterPt1.ViewController&gt;"
+                  moduleName = "FlixterPt1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miamarte/Desktop/MobileApps/FlixterPt1/FlixterPt1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DDE633F-7819-4D6C-8F35-13343DC5CCF7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixterPt1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CD47E7722AAFC6040034E7EE /* FlixterPt1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlixterPt1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD47E7722AAFC6040034E7EE /* FlixterPt2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlixterPt2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD47E7752AAFC6040034E7EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CD47E7772AAFC6040034E7EE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		CD47E7792AAFC6040034E7EE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,7 +57,7 @@
 		CD47E7732AAFC6040034E7EE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CD47E7722AAFC6040034E7EE /* FlixterPt1.app */,
+				CD47E7722AAFC6040034E7EE /* FlixterPt2.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -89,9 +89,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CD47E7712AAFC6040034E7EE /* FlixterPt1 */ = {
+		CD47E7712AAFC6040034E7EE /* FlixterPt2 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CD47E7862AAFC6080034E7EE /* Build configuration list for PBXNativeTarget "FlixterPt1" */;
+			buildConfigurationList = CD47E7862AAFC6080034E7EE /* Build configuration list for PBXNativeTarget "FlixterPt2" */;
 			buildPhases = (
 				CD47E76E2AAFC6040034E7EE /* Sources */,
 				CD47E76F2AAFC6040034E7EE /* Frameworks */,
@@ -101,12 +101,12 @@
 			);
 			dependencies = (
 			);
-			name = FlixterPt1;
+			name = FlixterPt2;
 			packageProductDependencies = (
 				CD47E78A2AAFC7CE0034E7EE /* Nuke */,
 			);
 			productName = FlixterPt1;
-			productReference = CD47E7722AAFC6040034E7EE /* FlixterPt1.app */;
+			productReference = CD47E7722AAFC6040034E7EE /* FlixterPt2.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -124,7 +124,7 @@
 					};
 				};
 			};
-			buildConfigurationList = CD47E76D2AAFC6040034E7EE /* Build configuration list for PBXProject "FlixterPt1" */;
+			buildConfigurationList = CD47E76D2AAFC6040034E7EE /* Build configuration list for PBXProject "FlixterPt2" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -140,7 +140,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CD47E7712AAFC6040034E7EE /* FlixterPt1 */,
+				CD47E7712AAFC6040034E7EE /* FlixterPt2 */,
 			);
 		};
 /* End PBXProject section */
@@ -367,7 +367,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CD47E76D2AAFC6040034E7EE /* Build configuration list for PBXProject "FlixterPt1" */ = {
+		CD47E76D2AAFC6040034E7EE /* Build configuration list for PBXProject "FlixterPt2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CD47E7842AAFC6080034E7EE /* Debug */,
@@ -376,7 +376,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CD47E7862AAFC6080034E7EE /* Build configuration list for PBXNativeTarget "FlixterPt1" */ = {
+		CD47E7862AAFC6080034E7EE /* Build configuration list for PBXNativeTarget "FlixterPt2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CD47E7872AAFC6080034E7EE /* Debug */,
