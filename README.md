@@ -25,13 +25,27 @@ The following **optional** features are implemented:
 - [X] Unique UI changes, such as background, font/color changes, etc.
 - [X] User implements a collection view
 
-- [ ] List anything else that you can get done to improve the app functionality!
+
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+## Video with iPhoneSE 
+<div>
+    <a href="https://www.loom.com/share/ee4644cedcf24252bfeef41cf3ebbe32">
+    </a>
+    <a href="https://www.loom.com/share/ee4644cedcf24252bfeef41cf3ebbe32">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ee4644cedcf24252bfeef41cf3ebbe32-with-play.gif">
+    </a>
+  </div>
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+## Video with iPhone14 
+<div>
+    <a href="https://www.loom.com/share/95076fdf79b74917a2308db6221a059f">
+    </a>
+    <a href="https://www.loom.com/share/95076fdf79b74917a2308db6221a059f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/95076fdf79b74917a2308db6221a059f-with-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
